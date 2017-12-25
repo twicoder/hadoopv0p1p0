@@ -2,50 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3cee615-1fde-41c2-ac9c-0897f4f19762" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/commons-logging-api-1.0.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jetty-5.1.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jetty-ext/ant.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jetty-ext/commons-el.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jetty-ext/jasper-compiler.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jetty-ext/jasper-runtime.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jetty-ext/jsp-api.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/junit-3.8.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lucene-core-1.9.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/servlet-api.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/jetty_ext.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jetty-5.1.4.LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/junit-3.8.1.LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/io/ArrayFile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/io/MapFile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/io/SequenceFile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/io/SetFile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/FileSplit.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/InputFormat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/InputFormatBase.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/JobConfigurable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/MRConstants.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/MapReduceBase.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/MapRunnable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/MapRunner.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/Mapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/OutputCollector.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/OutputFormat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/OutputFormatBase.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/Partitioner.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/RecordReader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/RecordWriter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/Reducer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/Reporter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/RunningJob.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/TextInputFormat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/TextOutputFormat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/lib/HashPartitioner.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/lib/IdentityMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/lib/IdentityReducer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/util/PrintJarMainClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/util/Progress.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/ClusterStatus.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/CombiningCollector.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hadoopcodedemo1.iml" afterPath="$PROJECT_DIR$/hadoopcodedemo1.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,40 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FileSplit.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/FileSplit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="32" column="23" lean-forward="true" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JobConf.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/JobConf.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="265" column="5" lean-forward="true" selection-start-line="265" selection-start-column="5" selection-end-line="265" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HashPartitioner.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/lib/HashPartitioner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -116,8 +42,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/org/apache/hadoop/fs/FSDataOutputStream.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/org/apache/hadoop/dfs/Block.java" />
         <option value="$PROJECT_DIR$/src/org/apache/hadoop/dfs/FSConstants.java" />
         <option value="$PROJECT_DIR$/src/org/apache/hadoop/util/Daemon.java" />
@@ -167,6 +91,8 @@
         <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/MapRunner.java" />
         <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/Partitioner.java" />
         <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/lib/HashPartitioner.java" />
+        <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/ClusterStatus.java" />
+        <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/CombiningCollector.java" />
       </list>
     </option>
   </component>
@@ -223,14 +149,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="hadoop" type="462c0819:PsiDirectoryNode" />
               <item name="mapred" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hadoopv0p1p0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hadoopv0p1p0" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="hadoop" type="462c0819:PsiDirectoryNode" />
-              <item name="mapred" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -346,16 +264,15 @@
       <updated>1514083560451</updated>
       <workItem from="1514083562198" duration="14759000" />
       <workItem from="1514168503869" duration="4743000" />
-      <workItem from="1514198128245" duration="9434000" />
+      <workItem from="1514198128245" duration="9637000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28936000" />
+    <option name="totallyTimeSpent" value="29139000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -369,7 +286,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20108695" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18710022" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18710022" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -399,22 +316,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/dfs/BlockCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2112">
-          <caret line="120" column="0" lean-forward="true" selection-start-line="120" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/dfs/FSDataset.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6832">
-          <caret line="429" column="0" lean-forward="true" selection-start-line="429" selection-start-column="0" selection-end-line="429" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/dfs/DFSFile.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1420">
@@ -691,14 +592,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/FileSplit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="32" column="23" lean-forward="true" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/InputFormat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="643">
@@ -795,21 +688,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/JobConf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="265" column="5" lean-forward="true" selection-start-line="265" selection-start-column="5" selection-end-line="265" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/lib/HashPartitioner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="484">
           <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/JobConf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1403">
+          <caret line="265" column="5" lean-forward="true" selection-start-line="265" selection-start-column="5" selection-end-line="265" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/ClusterStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="643">
+          <caret line="82" column="0" lean-forward="true" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/CombiningCollector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="34" column="32" lean-forward="true" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/FileSplit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="32" column="23" lean-forward="true" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
