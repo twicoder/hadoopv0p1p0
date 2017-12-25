@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="jetty-ext">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-api-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-5.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-3.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lucene-core-1.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/servlet-api.jar!/" />
+      <root url="file://$PROJECT_DIR$/lib/jetty-ext" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/jetty-ext" recursive="false" />
+  </library>
+</component>
