@@ -2,8 +2,77 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3cee615-1fde-41c2-ac9c-0897f4f19762" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/ClusterStatus.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/CombiningCollector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/src/documentation/resources/images/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/src/documentation/resources/images/hadoop-logo-big.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/src/documentation/resources/images/hadoop-logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/forrest.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/src/documentation/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/src/documentation/classes/CatalogManager.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/src/documentation/content/xdocs/about.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/src/documentation/content/xdocs/credits.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/src/documentation/content/xdocs/index.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/src/documentation/content/xdocs/issue_tracking.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/src/documentation/content/xdocs/mailing_lists.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/src/documentation/content/xdocs/site.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/src/documentation/content/xdocs/tabs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/src/documentation/content/xdocs/version_control.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/src/documentation/skinconf.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/status.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mapred-default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/InterTrackerProtocol.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/JobClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/JobInProgress.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/JobProfile.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/JobStatus.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/JobSubmissionProtocol.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/JobTracker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/JobTrackerInfoServer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/LocalJobRunner.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/MapFileOutputFormat.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/MapOutputFile.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/MapOutputLocation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/MapOutputProtocol.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/MapTask.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/MapTaskRunner.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/ReduceTask.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/ReduceTaskRunner.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/SequenceFileInputFormat.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/SequenceFileOutputFormat.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/SequenceFileRecordReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/Task.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/TaskInProgress.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/TaskReport.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/TaskRunner.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/TaskStatus.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/TaskTracker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/TaskTrackerStatus.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/TaskUmbilicalProtocol.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/lib/InverseMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/lib/LongSumReducer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/lib/RegexMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/apache/hadoop/mapred/lib/TokenCountMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/overview.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/hadoop-site.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/mapred-default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/org/apache/hadoop/dfs/ClusterTestDFS.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/org/apache/hadoop/dfs/MiniDFSCluster.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/org/apache/hadoop/dfs/TestLocalDFS.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/org/apache/hadoop/fs/TestFileSystem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/org/apache/hadoop/fs/TestLocalFileSystem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/org/apache/hadoop/io/RandomDatum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/org/apache/hadoop/io/TestArrayFile.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/org/apache/hadoop/io/TestBytesWritable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/org/apache/hadoop/io/TestMD5Hash.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/org/apache/hadoop/io/TestSequenceFile.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/org/apache/hadoop/io/TestSetFile.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/org/apache/hadoop/io/TestUTF8.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/org/apache/hadoop/io/TestVersionedWritable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/org/apache/hadoop/io/TestWritable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/org/apache/hadoop/ipc/TestIPC.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/org/apache/hadoop/ipc/TestRPC.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/org/apache/hadoop/mapred/MapredLoadTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/org/apache/hadoop/mapred/TestSequenceFileInputFormat.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/org/apache/hadoop/mapred/TestTextInputFormat.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,7 +84,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="TestFileSystem.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/org/apache/hadoop/fs/TestFileSystem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -42,38 +122,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/org/apache/hadoop/dfs/Block.java" />
-        <option value="$PROJECT_DIR$/src/org/apache/hadoop/dfs/FSConstants.java" />
-        <option value="$PROJECT_DIR$/src/org/apache/hadoop/util/Daemon.java" />
-        <option value="$PROJECT_DIR$/src/org/apache/hadoop/dfs/DatanodeInfo.java" />
-        <option value="$PROJECT_DIR$/src/org/apache/hadoop/dfs/BlockCommand.java" />
-        <option value="$PROJECT_DIR$/src/org/apache/hadoop/dfs/DatanodeProtocol.java" />
-        <option value="$PROJECT_DIR$/src/org/apache/hadoop/dfs/DFSFileInfo.java" />
-        <option value="$PROJECT_DIR$/src/org/apache/hadoop/dfs/FSDataset.java" />
-        <option value="$PROJECT_DIR$/src/org/apache/hadoop/dfs/DFSFile.java" />
-        <option value="$PROJECT_DIR$/src/org/apache/hadoop/dfs/DFSClient.java" />
-        <option value="$PROJECT_DIR$/src/org/apache/hadoop/dfs/ClientProtocol.java" />
-        <option value="$PROJECT_DIR$/src/org/apache/hadoop/dfs/LocatedBlock.java" />
-        <option value="$PROJECT_DIR$/src/org/apache/hadoop/dfs/DataNode.java" />
-        <option value="$PROJECT_DIR$/src/org/apache/hadoop/dfs/FSDirectory.java" />
-        <option value="$PROJECT_DIR$/src/org/apache/hadoop/dfs/DataNodeReport.java" />
-        <option value="$PROJECT_DIR$/src/org/apache/hadoop/dfs/DFSShell.java" />
-        <option value="$PROJECT_DIR$/src/org/apache/hadoop/dfs/DistributedFileSystem.java" />
-        <option value="$PROJECT_DIR$/src/org/apache/hadoop/dfs/DFSck.java" />
-        <option value="$PROJECT_DIR$/src/org/apache/hadoop/dfs/FSNamesystem.java" />
-        <option value="$PROJECT_DIR$/src/org/apache/hadoop/dfs/NameNode.java" />
-        <option value="$PROJECT_DIR$/src/org/apache/hadoop/io/SequenceFile.java" />
-        <option value="$PROJECT_DIR$/src/org/apache/hadoop/io/MapFile.java" />
-        <option value="$PROJECT_DIR$/src/org/apache/hadoop/io/ArrayFile.java" />
-        <option value="$PROJECT_DIR$/src/org/apache/hadoop/io/SetFile.java" />
-        <option value="$PROJECT_DIR$/src/org/apache/hadoop/util/PrintJarMainClass.java" />
-        <option value="$PROJECT_DIR$/src/org/apache/hadoop/util/Progress.java" />
-        <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/FileSplit.java" />
-        <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/RecordReader.java" />
-        <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/RecordWriter.java" />
-        <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/Mapper.java" />
-        <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/Reporter.java" />
-        <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/RunningJob.java" />
         <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/MRConstants.java" />
         <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/OutputCollector.java" />
         <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/OutputFormat.java" />
@@ -93,6 +141,38 @@
         <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/lib/HashPartitioner.java" />
         <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/ClusterStatus.java" />
         <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/CombiningCollector.java" />
+        <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/InterTrackerProtocol.java" />
+        <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/JobStatus.java" />
+        <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/JobProfile.java" />
+        <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/Task.java" />
+        <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/TaskInProgress.java" />
+        <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/TaskReport.java" />
+        <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/TaskStatus.java" />
+        <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/TaskTrackerStatus.java" />
+        <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/TaskUmbilicalProtocol.java" />
+        <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/SequenceFileInputFormat.java" />
+        <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/SequenceFileRecordReader.java" />
+        <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/SequenceFileOutputFormat.java" />
+        <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/TaskRunner.java" />
+        <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/TaskTracker.java" />
+        <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/MapOutputFile.java" />
+        <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/MapOutputLocation.java" />
+        <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/MapOutputProtocol.java" />
+        <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/MapTask.java" />
+        <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/MapTaskRunner.java" />
+        <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/JobTrackerInfoServer.java" />
+        <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/JobTracker.java" />
+        <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/JobSubmissionProtocol.java" />
+        <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/JobInProgress.java" />
+        <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/ReduceTask.java" />
+        <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/ReduceTaskRunner.java" />
+        <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/JobClient.java" />
+        <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/LocalJobRunner.java" />
+        <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/MapFileOutputFormat.java" />
+        <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/lib/InverseMapper.java" />
+        <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/lib/LongSumReducer.java" />
+        <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/lib/RegexMapper.java" />
+        <option value="$PROJECT_DIR$/src/org/apache/hadoop/mapred/lib/TokenCountMapper.java" />
       </list>
     </option>
   </component>
@@ -125,6 +205,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,32 +216,10 @@
               <item name="hadoopv0p1p0" type="b2602c69:ProjectViewProjectNode" />
               <item name="hadoopv0p1p0" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="hadoopv0p1p0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hadoopv0p1p0" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hadoopv0p1p0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hadoopv0p1p0" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="hadoop" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hadoopv0p1p0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hadoopv0p1p0" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="hadoop" type="462c0819:PsiDirectoryNode" />
-              <item name="mapred" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -169,8 +231,12 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\hadoop\hadoopv0p1p0" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\code\hadoop\hadoopv0p1p0" />
+      <recent name="D:\code\hadoop\hadoopv0p1p0\src" />
       <recent name="D:\code\hadoop\hadoopcodedemo1\src" />
     </key>
   </component>
@@ -264,12 +330,13 @@
       <updated>1514083560451</updated>
       <workItem from="1514083562198" duration="14759000" />
       <workItem from="1514168503869" duration="4743000" />
-      <workItem from="1514198128245" duration="9637000" />
+      <workItem from="1514198128245" duration="9668000" />
+      <workItem from="1514288003729" duration="4065000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29139000" />
+    <option name="totallyTimeSpent" value="33235000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -286,7 +353,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20108695" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18710022" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18923241" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -316,314 +383,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/dfs/DFSFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1420">
-          <caret line="101" column="0" lean-forward="true" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/dfs/LocatedBlock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1496">
-          <caret line="88" column="0" lean-forward="true" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/dfs/ClientProtocol.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="53" column="4" lean-forward="false" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/dfs/DataNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2806">
-          <caret line="787" column="0" lean-forward="true" selection-start-line="787" selection-start-column="0" selection-end-line="787" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/dfs/DFSClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1348">
-          <caret line="356" column="41" lean-forward="false" selection-start-line="356" selection-start-column="33" selection-end-line="356" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/dfs/FSDirectory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1024">
-          <caret line="759" column="0" lean-forward="true" selection-start-line="759" selection-start-column="0" selection-end-line="759" selection-end-column="0" />
-          <folding>
-            <element signature="class#INode#0;class#FSDirectory#0" expanded="false" />
-            <element signature="method#loadFSImage#0;class#FSDirectory#0" expanded="false" />
-            <element signature="method#loadFSEdits#0;class#FSDirectory#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/dfs/DFSFileInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-220">
-          <caret line="27" column="39" lean-forward="true" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/dfs/DatanodeProtocol.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1188">
-          <caret line="68" column="0" lean-forward="true" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/dfs/DatanodeInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="562">
-          <caret line="177" column="0" lean-forward="true" selection-start-line="177" selection-start-column="0" selection-end-line="177" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/dfs/Block.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="122" column="22" lean-forward="false" selection-start-line="122" selection-start-column="12" selection-end-line="122" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/fs/LocalFileSystem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="30" column="31" lean-forward="false" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/fs/FileSystem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="101" column="25" lean-forward="false" selection-start-line="101" selection-start-column="25" selection-end-line="101" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/dfs/DataNodeReport.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-362">
-          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/dfs/DFSShell.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="190" column="33" lean-forward="false" selection-start-line="190" selection-start-column="12" selection-end-line="190" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/dfs/DistributedFileSystem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="54" column="0" lean-forward="true" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/dfs/DFSck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-33">
-          <caret line="51" column="9" lean-forward="true" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/dfs/NameNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7452">
-          <caret line="397" column="0" lean-forward="true" selection-start-line="397" selection-start-column="0" selection-end-line="397" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/dfs/FSNamesystem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="562">
-          <caret line="1339" column="0" lean-forward="true" selection-start-line="1339" selection-start-column="0" selection-end-line="1339" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_151/src.zip!/java/util/PriorityQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-28">
-          <caret line="82" column="13" lean-forward="false" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/io/SequenceFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="824" column="54" lean-forward="false" selection-start-line="824" selection-start-column="41" selection-end-line="824" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/io/MapFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="643">
-          <caret line="494" column="0" lean-forward="true" selection-start-line="494" selection-start-column="0" selection-end-line="494" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/io/SetFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-567">
-          <caret line="38" column="36" lean-forward="true" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/io/ArrayFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="643">
-          <caret line="79" column="0" lean-forward="true" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/util/PrintJarMainClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="643">
-          <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/util/Progress.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2068">
-          <caret line="116" column="0" lean-forward="true" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/Reporter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="26" column="18" lean-forward="false" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/RecordWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="38" column="1" lean-forward="true" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/RecordReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/RunningJob.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1386">
-          <caret line="77" column="0" lean-forward="true" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/MRConstants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/OutputCollector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/OutputFormat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/JobConfigurable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/Mapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="28" column="39" lean-forward="false" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/InputFormat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="643">
-          <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/InputFormatBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3036">
-          <caret line="161" column="0" lean-forward="true" selection-start-line="161" selection-start-column="0" selection-end-line="161" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/TextInputFormat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1650">
-          <caret line="96" column="0" lean-forward="true" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/OutputFormatBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/TextOutputFormat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="643">
@@ -644,7 +403,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -660,7 +418,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -726,6 +483,315 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="32" column="23" lean-forward="true" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/JobStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1562">
+          <caret line="87" column="0" lean-forward="true" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/JobProfile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="643">
+          <caret line="117" column="0" lean-forward="true" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/TaskReport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="67" column="0" lean-forward="true" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/TaskStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1474">
+          <caret line="83" column="0" lean-forward="true" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/TaskTrackerStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="643">
+          <caret line="152" column="0" lean-forward="true" selection-start-line="152" selection-start-column="0" selection-end-line="152" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/TaskUmbilicalProtocol.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="55" column="0" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/SequenceFileRecordReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="74" column="0" lean-forward="true" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/SequenceFileInputFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="643">
+          <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/SequenceFileOutputFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1078">
+          <caret line="72" column="0" lean-forward="true" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/MapOutputLocation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="76" column="0" lean-forward="true" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/MapOutputProtocol.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/MapTaskRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/MapTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="51" column="32" lean-forward="false" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/MapOutputFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="29" column="6" lean-forward="false" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/TaskRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="140" column="33" lean-forward="false" selection-start-line="140" selection-start-column="22" selection-end-line="140" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="74" column="55" lean-forward="false" selection-start-line="74" selection-start-column="44" selection-end-line="74" selection-end-column="55" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/InterTrackerProtocol.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="31" column="39" lean-forward="true" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/JobSubmissionProtocol.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1166">
+          <caret line="67" column="0" lean-forward="true" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/JobInProgress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3217">
+          <caret line="506" column="0" lean-forward="true" selection-start-line="506" selection-start-column="0" selection-end-line="506" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/JobTracker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8646">
+          <caret line="155" column="49" lean-forward="true" selection-start-line="155" selection-start-column="49" selection-end-line="155" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/ReduceTaskRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2662">
+          <caret line="143" column="0" lean-forward="true" selection-start-line="143" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/ReduceTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="61" column="35" lean-forward="false" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/TaskInProgress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="441" column="13" lean-forward="true" selection-start-line="441" selection-start-column="13" selection-end-line="441" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/JobTrackerInfoServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="41" column="38" lean-forward="true" selection-start-line="41" selection-start-column="38" selection-end-line="41" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/TaskTracker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="85" column="23" lean-forward="false" selection-start-line="85" selection-start-column="13" selection-end-line="85" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/JobClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="178" column="53" lean-forward="false" selection-start-line="178" selection-start-column="39" selection-end-line="178" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/MapFileOutputFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1276">
+          <caret line="81" column="0" lean-forward="true" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/LocalJobRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4026">
+          <caret line="215" column="0" lean-forward="false" selection-start-line="215" selection-start-column="0" selection-end-line="215" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/lib/InverseMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/lib/LongSumReducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/lib/RegexMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/apache/hadoop/mapred/lib/TokenCountMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hadoop-default.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mapred-default.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/src/documentation/classes/CatalogManager.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hadoop-site.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/org/apache/hadoop/dfs/ClusterTestDFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3102">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/org/apache/hadoop/fs/TestFileSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
